@@ -20,7 +20,7 @@ The deliberate choices behind this shape:
 ## 2. Module map
 
 ```
-team06/
+codescope/
 ├── composeApp/                 # KMP client (Android + Desktop)
 │   └── src/
 │       ├── commonMain/         # Shared UI, view models, controllers, repositories, domain, DI

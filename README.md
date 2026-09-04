@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mhelikopter/codescope/actions/workflows/ci.yml"><img src="https://github.com/mhelikopter/codescope/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/mehling23/codescope/actions/workflows/ci.yml"><img src="https://github.com/mehling23/codescope/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
   <img src="https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF.svg" alt="Kotlin Multiplatform">
   <img src="https://img.shields.io/badge/UI-Compose%20Multiplatform-4285F4.svg" alt="Compose Multiplatform">
@@ -133,7 +133,7 @@ Other areas (large parts of the UI screens, the Cloud Functions implementation, 
 ### Clone
 
 ```shell
-git clone https://github.com/<your-fork>/codescope.git
+git clone https://github.com/mehling23/codescope.git
 cd codescope
 ```
 
@@ -230,7 +230,7 @@ Test coverage is currently thin — it grew organically alongside the feature wo
 ## Project structure
 
 ```
-team06/
+codescope/
 ├── composeApp/                         # KMP client
 │   ├── build.gradle.kts                # Compose Desktop config, BuildKonfig, Dokka
 │   └── src/
